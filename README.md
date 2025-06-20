@@ -1,8 +1,4 @@
-Here’s a **powerful, professional README.md** you can use for your entire repository (`PYTHON-PROJECTS`) that shows off your skills, projects, and learning journey — perfect for impressing recruiters and interviewers:
 
----
-
-### 📄 `README.md` for `PYTHON-PROJECTS`
 
 ````markdown
 # 🐍 Python Projects by Tejasvi Pakala
