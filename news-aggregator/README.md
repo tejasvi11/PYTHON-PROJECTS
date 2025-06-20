@@ -15,5 +15,5 @@ This is a simple Python project that fetches and displays the latest news headli
 - Parses JSON response and prints top 5 headlines
 - Runs from the command line 
 
-built by me
+
 
